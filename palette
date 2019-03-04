@@ -1,0 +1,11 @@
+
+
+
+.color-primary-1 { color: #E6E6E6 } /* White Background */
+.color-primary-2 { color: #C4C2C2 } /* Grey */
+.color-primary-3 { color: #767777 } /* Dark Grey */
+.color-primary-0 { color: #FF2C00 }	/* Orange */
+.color-secondary-1-0 { color: #0398F1 }	/* Aqua */
+.color-secondary-1-4 { color: #032940 } /* Dark aqua */
+.color-secondary-2-0 { color: #00F0E6 }	/* Teal */
+.color-complement-0 { color: #FFD900 }	/* Yellow */

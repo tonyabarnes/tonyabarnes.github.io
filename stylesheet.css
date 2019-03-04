@@ -1,7 +1,51 @@
+body{
+  background-color: #E6E6E6;
+  font-family: 'Nunito', sans-serif;
+}
+@media (max-width: 500px) {
+  .hero-section{
+    text-align: center;
+    font-size: 36px;
+  }
+  li{
+    display: block;
+  }
+}
 h1{
   font-family: 'Raleway', sans-serif;
+  color: rgba(42, 50, 75, 1);
+  font-size: 48px;
 }
-
+hr{
+  background-color: #FF2C00;
+  height: 3px;
+  border-width: 0px;
+}
 p{
   font-family: 'Nunito', sans-serif;
+  color: rgba(42, 50, 75, 1);
+  font-size:16px;
+}
+.hero-section{
+   text-align: left;
+   background-color: #C4C2C2;
+   color: #FF2C00;
+   font-family: 'Raleway', sans-serif;
+   font-size: 82px;
+   font-weight: bold;
+}
+.buttonorange{
+  background-color: #FF2C00;
+  color: #ffffff;
+  font-weight: bold;
+  text-align: center;
+  border-width: 0px;
+  font-size: 30px;
+}
+ul{
+}
+li{
+  display: inline;
+  align: right;
+  padding: 5px;
 }
